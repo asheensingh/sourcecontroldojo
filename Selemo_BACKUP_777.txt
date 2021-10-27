@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+This is my test file 
+Second addition
+=======
+This is my test file from asheen
+>>>>>>> 6f7d0a4e835c98e48afc1cc7815d78f25a65a28d
